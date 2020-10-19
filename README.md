@@ -1,1 +1,1 @@
-# the_gossip_project_sinatra
+#on doit expliquer le fonctionnement de notre code. 
